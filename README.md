@@ -1,4 +1,4 @@
-# JOMBANG WIRATAMA: Edisi Ksatria Kota Santri
+# JOMBANG WIRATAMA:
 
 **Oleh:** [ihsan mukti jaelani/moh.hafiz ashfahani saputra/ SMABAND KEREN]
 **Versi:** 1.0 (Final Lomba)
@@ -26,4 +26,5 @@
 Pastikan Anda mengirimkan folder zip yang berisi:
 1.  **`JOMBANG_WIRATAMA.exe`** (Aplikasi Utama)
 2.  **`README.md`** (Dokumen ini)
+
 3.  **`DESKRIPSI_PROYEK.md`** (Deskripsi/Proposal untuk Juri)
