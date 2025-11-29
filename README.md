@@ -13,7 +13,7 @@
 
 ## 🚀 CARA MENGGUNANAKAN APLIKASI
 
-1.  **Untuk Juri (Versi .EXE):**
+1.  ** (Versi .EXE):**
     * Cukup klik ganda pada file **`JOMBANG_WIRATAMA.exe`**.
     * Aplikasi akan terbuka di jendela *Command Prompt*.
 2.  **Instruksi dalam Game:**
@@ -23,8 +23,9 @@
 
 ## 📦 ISI PAKET PENGIRIMAN
 
-Pastikan Anda mengirimkan folder zip yang berisi:
+
 1.  **`JOMBANG_WIRATAMA.exe`** (Aplikasi Utama)
 2.  **`README.md`** (Dokumen ini)
 
 3.  **`DESKRIPSI_PROYEK.md`** (Deskripsi/Proposal untuk Juri)
+
